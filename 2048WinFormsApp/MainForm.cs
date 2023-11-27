@@ -177,7 +177,7 @@ namespace _2048WinFormsApp
 
                     switch (tileNumber)
                     {
-                        case 2: tile.BackColor = GameColors.Tile2BackgroundColor; tile.ForeColor = GameColors.TileDarkColor; tile.Font = GameFonts.TileLargeFont;  break;
+                        case 2: tile.BackColor = GameColors.Tile2BackgroundColor; tile.ForeColor = GameColors.TileDarkColor; tile.Font = GameFonts.TileLargeFont; break;
                         case 4: tile.BackColor = GameColors.Tile4BackgroundColor; tile.ForeColor = GameColors.TileDarkColor; tile.Font = GameFonts.TileLargeFont; break;
                         case 8: tile.BackColor = GameColors.Tile8BackgroundColor; tile.ForeColor = GameColors.TileLightColor; tile.Font = GameFonts.TileLargeFont; break;
                         case 16: tile.BackColor = GameColors.Tile16BackgroundColor; tile.ForeColor = GameColors.TileLightColor; tile.Font = GameFonts.TileLargeFont; break;
