@@ -22,7 +22,7 @@
 
 Пример геймплея игры:
 
-<div align="center"><img src="https://github.com/snikitin-de/2048WinFormsApp/assets/25394427/51904c92-88c8-40bb-809b-04b996a87dcf"></div>
+<div><img src="https://github.com/snikitin-de/2048WinFormsApp/assets/25394427/51904c92-88c8-40bb-809b-04b996a87dcf" width="526" height="656"></div>
 
 ## Техническая часть
 
