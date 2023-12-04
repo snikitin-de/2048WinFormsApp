@@ -34,7 +34,7 @@
 
 Структура каталога решения:
 
-![Структура каталога решения](https://github.com/snikitin-de/2048WinFormsApp/assets/25394427/a9d26c76-b726-4ca5-97e1-dd2588a203c3)
+![Структура каталога решения](https://github.com/snikitin-de/2048WinFormsApp/assets/25394427/7d936642-5322-42ce-a611-7d46ee9bdc6d)
 
 ### Сериализация
 
